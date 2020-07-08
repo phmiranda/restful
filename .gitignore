@@ -1,0 +1,15 @@
+# comentário.
+.idea/
+.vscode
+
+# comentário.
+gen/
+target/
+out/
+
+# comentário.
+.mvn
+
+# comentário.
+*.iml
+*.log
